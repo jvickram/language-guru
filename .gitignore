@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# React Native
+ios/Pods/
+ios/build/
+android/.gradle/
+android/app/build/
+
+# iOS
+*.xcuserstate
+*.xcodeproj/xcuserdata/
+*.xcworkspace/
+
+# Android
+*.iml
+.gradle/
+local.properties
+
+# General Development
+.DS_Store
+.idea/
+.vscode/
+.env
+*.log
+*.tmp
