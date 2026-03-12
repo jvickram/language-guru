@@ -16,9 +16,11 @@ Render deploys from your Git repo, so make sure your branch is pushed.
 
 The service will be created as `language-guru-backend` with:
 - Root directory: `backend`
-- Build command: `npm ci`
+- Build command: `npm install --omit=dev --no-audit --no-fund`
 - Start command: `npm start`
 - Health endpoint: `/api/health`
+
+Note: this repo currently ignores lockfiles globally. If you want deterministic installs with `npm ci`, commit `backend/package-lock.json` first.
 
 ## 3) Environment variables used
 
