@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: language-guru-backend
+    env: node
+    plan: free
+    rootDir: backend
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATA_STORE
+        value: memory
+      - key: RATE_LIMIT_PER_MINUTE
+        value: "300"
+      - key: ALLOWED_ORIGINS
+        value: "*"
+      - key: JWT_SECRET
+        generateValue: true

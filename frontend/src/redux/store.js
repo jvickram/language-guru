@@ -1,7 +1,7 @@
 import { createStore, combineReducers, applyMiddleware } from 'redux';
 import thunk from 'redux-thunk';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { API_BASE_URL } from '../config/api';
+import { API_BASE_URLS } from '../config/api';
 
 const initialAuthState = {
   user: null,
@@ -83,6 +83,26 @@ const authHeaders = (token) => ({
   Authorization: `Bearer ${token}`,
 });
 
+const isConnectionError = (error) =>
+  error?.name === 'TypeError' || /network request failed/i.test(error?.message || '');
+
+const apiFetch = async (endpoint, options = {}) => {
+  let lastError;
+
+  for (const baseUrl of API_BASE_URLS) {
+    try {
+      return await fetch(`${baseUrl}${endpoint}`, options);
+    } catch (error) {
+      if (!isConnectionError(error)) {
+        throw error;
+      }
+      lastError = error;
+    }
+  }
+
+  throw lastError || new Error('Unable to reach backend');
+};
+
 export const bootstrapSession = () => async (dispatch) => {
   dispatch({ type: 'AUTH_BOOTSTRAP_START' });
   try {
@@ -113,7 +133,7 @@ const persistSession = async (token, user) => {
 };
 
 const authRequest = async (endpoint, payload) => {
-  const response = await fetch(`${API_BASE_URL}${endpoint}`, {
+  const response = await apiFetch(endpoint, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(payload),
@@ -162,7 +182,7 @@ export const fetchLessons = () => async (dispatch, getState) => {
   dispatch({ type: 'LESSONS_REQUEST' });
   try {
     const { token } = getState().auth;
-    const response = await fetch(`${API_BASE_URL}/lessons`, {
+    const response = await apiFetch('/lessons', {
       headers: authHeaders(token),
     });
     const data = await response.json();
@@ -178,7 +198,7 @@ export const fetchLessons = () => async (dispatch, getState) => {
 export const fetchProgress = () => async (dispatch, getState) => {
   try {
     const { token } = getState().auth;
-    const response = await fetch(`${API_BASE_URL}/progress`, {
+    const response = await apiFetch('/progress', {
       headers: authHeaders(token),
     });
     const data = await response.json();
@@ -194,7 +214,7 @@ export const fetchProgress = () => async (dispatch, getState) => {
 export const submitProgress = (lessonId, score = 100) => async (dispatch, getState) => {
   try {
     const { token } = getState().auth;
-    const response = await fetch(`${API_BASE_URL}/progress`, {
+    const response = await apiFetch('/progress', {
       method: 'POST',
       headers: authHeaders(token),
       body: JSON.stringify({ lessonId, completed: true, score }),
