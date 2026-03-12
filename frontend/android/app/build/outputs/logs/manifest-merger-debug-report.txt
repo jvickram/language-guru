@@ -1,0 +1,345 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-async-storage_async-storage] /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-safe-area-context] /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-screens] /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-android:0.73.11] /Users/jvickram/.gradle/caches/transforms-3/6b1fdbcc51bd1d9e1737b1f245310fa1/transformed/react-android-0.73.11-debug/AndroidManifest.xml:2:1-24:12
+MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/c1ca48b19f87e9c90d4bd976d02d193e/transformed/fresco-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/dc45beb36b61590fcaf24deb77067a7a/transformed/imagepipeline-okhttp3-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:drawee:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/ceb1160fe38c2fe2117b154ef9c72e5e/transformed/drawee-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/f04b81db3b76de90777f774d9176b839/transformed/nativeimagefilters-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/566d7b228ea2e7b251b4035a9001283e/transformed/memory-type-native-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/7bfdbb4a9b7d74652c4761533993b74d/transformed/memory-type-java-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/908b31e4ab303f9509bac62b42c4f6cf/transformed/imagepipeline-native-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/1773ee125ee0a2175a286d1099e72bd8/transformed/memory-type-ashmem-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/e394f80d122c4efbe56cac415f303b93/transformed/imagepipeline-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/b992fe119c58add0340fd40a5ee36540/transformed/nativeimagetranscoder-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/78a93f962891e84fa4da258665ff94bf/transformed/imagepipeline-base-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:middleware:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/7b53668f6aca66777b8a6be1b60ca0ac/transformed/middleware-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:ui-common:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/5bbf1c55d801c7ee35cb2f1afc495253/transformed/ui-common-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:soloader:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/2861d202f3a76178351a1924b3fc6778/transformed/soloader-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fbcore:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/de5f46c6b09910ae279c1f4f0a74ea30/transformed/fbcore-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/jvickram/.gradle/caches/transforms-3/966f33e770ca23028d8f308cae47b6ce/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/d3a8a24834f295d8078f18b8298041f7/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/jvickram/.gradle/caches/transforms-3/dd997c22ecb777a9e0898386a3d502a5/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/jvickram/.gradle/caches/transforms-3/b3627ca143232ec2ceb6e319eb18971d/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/27673b758f73ef8363c4b398f69ca054/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/jvickram/.gradle/caches/transforms-3/b3aae516de8ada04cd390a9558584616/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/jvickram/.gradle/caches/transforms-3/59263e7c887790458570eb895c81907d/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/ac29b736242a45651a9bc02634f7a838/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/9fabb327706f5707c9cd6e95d136c30d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/6ba283a3244530bbd4580a31b408c1c9/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/jvickram/.gradle/caches/transforms-3/aa8b400e3fa62f6a4287be6e71a3821f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/jvickram/.gradle/caches/transforms-3/e7b752d7fa4922d4763612dfa35e8e33/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r250231] /Users/jvickram/.gradle/caches/transforms-3/4f3ca143f80b7640f61483d0c40ebbc9/transformed/android-jsc-r250231/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/6ff8ab70dba2e5864361a9eb0b309489/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/209e9c00c790238facf7a05ab3cc9daf/transformed/autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/5b356190bdf4bb7065067fc153a69c6d/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/f1ad4007c9d50652fdaa15828c92907b/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/e2ee9e55e87328903b701c27d28c333b/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/15b1e5bc9a0e7ee8da4a47a3ca3cf782/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/27f32e5559bcd43034d6914ede1dc092/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/56c281bcb8243724411ecc33f6c1bde0/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/a293f7f653f0b588e6fae043d6c99347/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/jvickram/.gradle/caches/transforms-3/9b7c687cf2ef0cdf849c0c1404623f4f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/345ebcb3e4094628456bcdee8e74a5da/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/d23d6a45e492f15c201af61f951fa4e2/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/0fd1425c12b4ad547fe75169beca3740/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/73759641b17cf7e1f9f823253eaf747b/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/jvickram/.gradle/caches/transforms-3/833d32d424236eb26cd9ad4e79ea2d15/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/jvickram/.gradle/caches/transforms-3/fccc561a7772f0fa8cef62ebc7d1d814/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jvickram/.gradle/caches/transforms-3/e4cac9a05c96bced2bed2eaec58491f6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/9fa77c4d003de09851a41b68a4165087/transformed/tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbjni:fbjni:0.5.1] /Users/jvickram/.gradle/caches/transforms-3/0de2bfea6971b7d3af48f10b1621efb4/transformed/fbjni-0.5.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/jvickram/.gradle/caches/transforms-3/1a78b9a1837318e9234a5a8e843e20fc/transformed/soloader-0.10.5/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/078806bd157ae28fc0dc0dff008ec247/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/jvickram/.gradle/caches/transforms-3/c2c67d6ef97116786f5e00cacbb4d36d/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/8e642d0218a62e2463dc98bf97fe4741/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jvickram/.gradle/caches/transforms-3/5b9668a697a30efe2c2676a2ef171ba3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/6119c53d075509c7c00b74ccdeb41c3b/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jvickram/.gradle/caches/transforms-3/0533ea7e787d4330488437d8f040f117/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/jvickram/.gradle/caches/transforms-3/605c5c983d653fbcbe978ef5aeb9a8b2/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jvickram/.gradle/caches/transforms-3/7afde1eb41d6777512f3b82b8c0854e7/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/6fab882c1c4696f4a34c8d66981c3728/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/635c327730b2ff9d6991544b258a04a1/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/d57a71de353d6f615f194fd1f99fb600/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:3:22-64
+application
+ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:5:5-26:19
+INJECTED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:5:5-26:19
+MERGED from [com.facebook.react:react-android:0.73.11] /Users/jvickram/.gradle/caches/transforms-3/6b1fdbcc51bd1d9e1737b1f245310fa1/transformed/react-android-0.73.11-debug/AndroidManifest.xml:18:5-22:19
+MERGED from [com.facebook.react:react-android:0.73.11] /Users/jvickram/.gradle/caches/transforms-3/6b1fdbcc51bd1d9e1737b1f245310fa1/transformed/react-android-0.73.11-debug/AndroidManifest.xml:18:5-22:19
+MERGED from [com.google.android.material:material:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/d3a8a24834f295d8078f18b8298041f7/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/d3a8a24834f295d8078f18b8298041f7/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/jvickram/.gradle/caches/transforms-3/dd997c22ecb777a9e0898386a3d502a5/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/jvickram/.gradle/caches/transforms-3/dd997c22ecb777a9e0898386a3d502a5/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/15b1e5bc9a0e7ee8da4a47a3ca3cf782/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/15b1e5bc9a0e7ee8da4a47a3ca3cf782/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/jvickram/.gradle/caches/transforms-3/fccc561a7772f0fa8cef62ebc7d1d814/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/jvickram/.gradle/caches/transforms-3/fccc561a7772f0fa8cef62ebc7d1d814/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jvickram/.gradle/caches/transforms-3/e4cac9a05c96bced2bed2eaec58491f6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jvickram/.gradle/caches/transforms-3/e4cac9a05c96bced2bed2eaec58491f6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/jvickram/.gradle/caches/transforms-3/1a78b9a1837318e9234a5a8e843e20fc/transformed/soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/jvickram/.gradle/caches/transforms-3/1a78b9a1837318e9234a5a8e843e20fc/transformed/soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jvickram/.gradle/caches/transforms-3/5b9668a697a30efe2c2676a2ef171ba3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jvickram/.gradle/caches/transforms-3/5b9668a697a30efe2c2676a2ef171ba3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:13:7-33
+	android:label
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:7:7-39
+	android:roundIcon
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:8:7-41
+	android:allowBackup
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:10:7-34
+	android:theme
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:11:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:12:7-42
+	android:name
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:6:7-38
+activity#com.languageguru.MainActivity
+ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:14:7-25:18
+	android:label
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:launchMode
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:18:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:19:9-51
+	android:exported
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:20:9-32
+	android:configChanges
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:17:9-118
+	android:name
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml:23:23-70
+uses-sdk
+INJECTED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-async-storage_async-storage] /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-async-storage_async-storage] /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.73.11] /Users/jvickram/.gradle/caches/transforms-3/6b1fdbcc51bd1d9e1737b1f245310fa1/transformed/react-android-0.73.11-debug/AndroidManifest.xml:10:5-44
+MERGED from [com.facebook.react:react-android:0.73.11] /Users/jvickram/.gradle/caches/transforms-3/6b1fdbcc51bd1d9e1737b1f245310fa1/transformed/react-android-0.73.11-debug/AndroidManifest.xml:10:5-44
+MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/c1ca48b19f87e9c90d4bd976d02d193e/transformed/fresco-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/c1ca48b19f87e9c90d4bd976d02d193e/transformed/fresco-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/dc45beb36b61590fcaf24deb77067a7a/transformed/imagepipeline-okhttp3-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/dc45beb36b61590fcaf24deb77067a7a/transformed/imagepipeline-okhttp3-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/ceb1160fe38c2fe2117b154ef9c72e5e/transformed/drawee-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/ceb1160fe38c2fe2117b154ef9c72e5e/transformed/drawee-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/f04b81db3b76de90777f774d9176b839/transformed/nativeimagefilters-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/f04b81db3b76de90777f774d9176b839/transformed/nativeimagefilters-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/566d7b228ea2e7b251b4035a9001283e/transformed/memory-type-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/566d7b228ea2e7b251b4035a9001283e/transformed/memory-type-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/7bfdbb4a9b7d74652c4761533993b74d/transformed/memory-type-java-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/7bfdbb4a9b7d74652c4761533993b74d/transformed/memory-type-java-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/908b31e4ab303f9509bac62b42c4f6cf/transformed/imagepipeline-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/908b31e4ab303f9509bac62b42c4f6cf/transformed/imagepipeline-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/1773ee125ee0a2175a286d1099e72bd8/transformed/memory-type-ashmem-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/1773ee125ee0a2175a286d1099e72bd8/transformed/memory-type-ashmem-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/e394f80d122c4efbe56cac415f303b93/transformed/imagepipeline-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/e394f80d122c4efbe56cac415f303b93/transformed/imagepipeline-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/b992fe119c58add0340fd40a5ee36540/transformed/nativeimagetranscoder-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/b992fe119c58add0340fd40a5ee36540/transformed/nativeimagetranscoder-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/78a93f962891e84fa4da258665ff94bf/transformed/imagepipeline-base-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/78a93f962891e84fa4da258665ff94bf/transformed/imagepipeline-base-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/7b53668f6aca66777b8a6be1b60ca0ac/transformed/middleware-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/7b53668f6aca66777b8a6be1b60ca0ac/transformed/middleware-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/5bbf1c55d801c7ee35cb2f1afc495253/transformed/ui-common-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/5bbf1c55d801c7ee35cb2f1afc495253/transformed/ui-common-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:soloader:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/2861d202f3a76178351a1924b3fc6778/transformed/soloader-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:soloader:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/2861d202f3a76178351a1924b3fc6778/transformed/soloader-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/de5f46c6b09910ae279c1f4f0a74ea30/transformed/fbcore-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.1.3] /Users/jvickram/.gradle/caches/transforms-3/de5f46c6b09910ae279c1f4f0a74ea30/transformed/fbcore-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/jvickram/.gradle/caches/transforms-3/966f33e770ca23028d8f308cae47b6ce/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/jvickram/.gradle/caches/transforms-3/966f33e770ca23028d8f308cae47b6ce/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/d3a8a24834f295d8078f18b8298041f7/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/d3a8a24834f295d8078f18b8298041f7/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/jvickram/.gradle/caches/transforms-3/dd997c22ecb777a9e0898386a3d502a5/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/jvickram/.gradle/caches/transforms-3/dd997c22ecb777a9e0898386a3d502a5/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/jvickram/.gradle/caches/transforms-3/b3627ca143232ec2ceb6e319eb18971d/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/jvickram/.gradle/caches/transforms-3/b3627ca143232ec2ceb6e319eb18971d/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/27673b758f73ef8363c4b398f69ca054/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/27673b758f73ef8363c4b398f69ca054/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/jvickram/.gradle/caches/transforms-3/b3aae516de8ada04cd390a9558584616/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/jvickram/.gradle/caches/transforms-3/b3aae516de8ada04cd390a9558584616/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/jvickram/.gradle/caches/transforms-3/59263e7c887790458570eb895c81907d/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/jvickram/.gradle/caches/transforms-3/59263e7c887790458570eb895c81907d/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/ac29b736242a45651a9bc02634f7a838/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/ac29b736242a45651a9bc02634f7a838/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/9fabb327706f5707c9cd6e95d136c30d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/9fabb327706f5707c9cd6e95d136c30d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/6ba283a3244530bbd4580a31b408c1c9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/6ba283a3244530bbd4580a31b408c1c9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/jvickram/.gradle/caches/transforms-3/aa8b400e3fa62f6a4287be6e71a3821f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/jvickram/.gradle/caches/transforms-3/aa8b400e3fa62f6a4287be6e71a3821f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/jvickram/.gradle/caches/transforms-3/e7b752d7fa4922d4763612dfa35e8e33/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/jvickram/.gradle/caches/transforms-3/e7b752d7fa4922d4763612dfa35e8e33/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r250231] /Users/jvickram/.gradle/caches/transforms-3/4f3ca143f80b7640f61483d0c40ebbc9/transformed/android-jsc-r250231/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250231] /Users/jvickram/.gradle/caches/transforms-3/4f3ca143f80b7640f61483d0c40ebbc9/transformed/android-jsc-r250231/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/6ff8ab70dba2e5864361a9eb0b309489/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/6ff8ab70dba2e5864361a9eb0b309489/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/209e9c00c790238facf7a05ab3cc9daf/transformed/autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/209e9c00c790238facf7a05ab3cc9daf/transformed/autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/5b356190bdf4bb7065067fc153a69c6d/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/5b356190bdf4bb7065067fc153a69c6d/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/f1ad4007c9d50652fdaa15828c92907b/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/f1ad4007c9d50652fdaa15828c92907b/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/e2ee9e55e87328903b701c27d28c333b/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/e2ee9e55e87328903b701c27d28c333b/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/15b1e5bc9a0e7ee8da4a47a3ca3cf782/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/15b1e5bc9a0e7ee8da4a47a3ca3cf782/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/27f32e5559bcd43034d6914ede1dc092/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/27f32e5559bcd43034d6914ede1dc092/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/56c281bcb8243724411ecc33f6c1bde0/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/56c281bcb8243724411ecc33f6c1bde0/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/a293f7f653f0b588e6fae043d6c99347/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/a293f7f653f0b588e6fae043d6c99347/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/jvickram/.gradle/caches/transforms-3/9b7c687cf2ef0cdf849c0c1404623f4f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/jvickram/.gradle/caches/transforms-3/9b7c687cf2ef0cdf849c0c1404623f4f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/345ebcb3e4094628456bcdee8e74a5da/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/345ebcb3e4094628456bcdee8e74a5da/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/d23d6a45e492f15c201af61f951fa4e2/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/d23d6a45e492f15c201af61f951fa4e2/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/0fd1425c12b4ad547fe75169beca3740/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/0fd1425c12b4ad547fe75169beca3740/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/73759641b17cf7e1f9f823253eaf747b/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/73759641b17cf7e1f9f823253eaf747b/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/jvickram/.gradle/caches/transforms-3/833d32d424236eb26cd9ad4e79ea2d15/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/jvickram/.gradle/caches/transforms-3/833d32d424236eb26cd9ad4e79ea2d15/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/jvickram/.gradle/caches/transforms-3/fccc561a7772f0fa8cef62ebc7d1d814/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/jvickram/.gradle/caches/transforms-3/fccc561a7772f0fa8cef62ebc7d1d814/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jvickram/.gradle/caches/transforms-3/e4cac9a05c96bced2bed2eaec58491f6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jvickram/.gradle/caches/transforms-3/e4cac9a05c96bced2bed2eaec58491f6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/9fa77c4d003de09851a41b68a4165087/transformed/tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/jvickram/.gradle/caches/transforms-3/9fa77c4d003de09851a41b68a4165087/transformed/tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbjni:fbjni:0.5.1] /Users/jvickram/.gradle/caches/transforms-3/0de2bfea6971b7d3af48f10b1621efb4/transformed/fbjni-0.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fbjni:fbjni:0.5.1] /Users/jvickram/.gradle/caches/transforms-3/0de2bfea6971b7d3af48f10b1621efb4/transformed/fbjni-0.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/jvickram/.gradle/caches/transforms-3/1a78b9a1837318e9234a5a8e843e20fc/transformed/soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/jvickram/.gradle/caches/transforms-3/1a78b9a1837318e9234a5a8e843e20fc/transformed/soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/078806bd157ae28fc0dc0dff008ec247/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/078806bd157ae28fc0dc0dff008ec247/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/jvickram/.gradle/caches/transforms-3/c2c67d6ef97116786f5e00cacbb4d36d/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/jvickram/.gradle/caches/transforms-3/c2c67d6ef97116786f5e00cacbb4d36d/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/8e642d0218a62e2463dc98bf97fe4741/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/8e642d0218a62e2463dc98bf97fe4741/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jvickram/.gradle/caches/transforms-3/5b9668a697a30efe2c2676a2ef171ba3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jvickram/.gradle/caches/transforms-3/5b9668a697a30efe2c2676a2ef171ba3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/6119c53d075509c7c00b74ccdeb41c3b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/6119c53d075509c7c00b74ccdeb41c3b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jvickram/.gradle/caches/transforms-3/0533ea7e787d4330488437d8f040f117/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jvickram/.gradle/caches/transforms-3/0533ea7e787d4330488437d8f040f117/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/jvickram/.gradle/caches/transforms-3/605c5c983d653fbcbe978ef5aeb9a8b2/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/jvickram/.gradle/caches/transforms-3/605c5c983d653fbcbe978ef5aeb9a8b2/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jvickram/.gradle/caches/transforms-3/7afde1eb41d6777512f3b82b8c0854e7/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jvickram/.gradle/caches/transforms-3/7afde1eb41d6777512f3b82b8c0854e7/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/6fab882c1c4696f4a34c8d66981c3728/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/6fab882c1c4696f4a34c8d66981c3728/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/635c327730b2ff9d6991544b258a04a1/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/635c327730b2ff9d6991544b258a04a1/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/d57a71de353d6f615f194fd1f99fb600/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jvickram/.gradle/caches/transforms-3/d57a71de353d6f615f194fd1f99fb600/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.facebook.react:react-android:0.73.11] /Users/jvickram/.gradle/caches/transforms-3/6b1fdbcc51bd1d9e1737b1f245310fa1/transformed/react-android-0.73.11-debug/AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from [com.facebook.react:react-android:0.73.11] /Users/jvickram/.gradle/caches/transforms-3/6b1fdbcc51bd1d9e1737b1f245310fa1/transformed/react-android-0.73.11-debug/AndroidManifest.xml:16:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from [com.facebook.react:react-android:0.73.11] /Users/jvickram/.gradle/caches/transforms-3/6b1fdbcc51bd1d9e1737b1f245310fa1/transformed/react-android-0.73.11-debug/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [com.facebook.react:react-android:0.73.11] /Users/jvickram/.gradle/caches/transforms-3/6b1fdbcc51bd1d9e1737b1f245310fa1/transformed/react-android-0.73.11-debug/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [com.facebook.react:react-android:0.73.11] /Users/jvickram/.gradle/caches/transforms-3/6b1fdbcc51bd1d9e1737b1f245310fa1/transformed/react-android-0.73.11-debug/AndroidManifest.xml:20:13-77
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/15b1e5bc9a0e7ee8da4a47a3ca3cf782/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/jvickram/.gradle/caches/transforms-3/fccc561a7772f0fa8cef62ebc7d1d814/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/jvickram/.gradle/caches/transforms-3/fccc561a7772f0fa8cef62ebc7d1d814/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jvickram/.gradle/caches/transforms-3/e4cac9a05c96bced2bed2eaec58491f6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jvickram/.gradle/caches/transforms-3/e4cac9a05c96bced2bed2eaec58491f6/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/15b1e5bc9a0e7ee8da4a47a3ca3cf782/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/15b1e5bc9a0e7ee8da4a47a3ca3cf782/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/15b1e5bc9a0e7ee8da4a47a3ca3cf782/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/15b1e5bc9a0e7ee8da4a47a3ca3cf782/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/15b1e5bc9a0e7ee8da4a47a3ca3cf782/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/15b1e5bc9a0e7ee8da4a47a3ca3cf782/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/jvickram/.gradle/caches/transforms-3/15b1e5bc9a0e7ee8da4a47a3ca3cf782/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.languageguru.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.languageguru.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/jvickram/.gradle/caches/transforms-3/fccc561a7772f0fa8cef62ebc7d1d814/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/jvickram/.gradle/caches/transforms-3/fccc561a7772f0fa8cef62ebc7d1d814/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/jvickram/.gradle/caches/transforms-3/fccc561a7772f0fa8cef62ebc7d1d814/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+meta-data#com.facebook.soloader.enabled
+ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/jvickram/.gradle/caches/transforms-3/1a78b9a1837318e9234a5a8e843e20fc/transformed/soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/jvickram/.gradle/caches/transforms-3/1a78b9a1837318e9234a5a8e843e20fc/transformed/soloader-0.10.5/AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/jvickram/.gradle/caches/transforms-3/1a78b9a1837318e9234a5a8e843e20fc/transformed/soloader-0.10.5/AndroidManifest.xml:13:13-57

@@ -1,0 +1,14 @@
+-- The C compiler identification is Clang 14.0.6
+-- The CXX compiler identification is Clang 14.0.6
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Users/jvickram/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Users/jvickram/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring incomplete, errors occurred!
+See also "/Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/.cxx/Debug/4b76o6q5/arm64-v8a/CMakeFiles/CMakeOutput.log".

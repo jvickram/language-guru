@@ -1,0 +1,28 @@
+CMake Error at /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/build/generated/rncli/src/main/jni/Android-rncli.cmake:6 (add_subdirectory):
+  add_subdirectory called with incorrect number of arguments
+Call Stack (most recent call first):
+  /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/node_modules/react-native/ReactAndroid/cmake-utils/ReactNative-application.cmake:123 (include)
+  CMakeLists.txt:31 (include)
+
+
+CMake Error at /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/build/generated/rncli/src/main/jni/Android-rncli.cmake:7 (add_subdirectory):
+  add_subdirectory called with incorrect number of arguments
+Call Stack (most recent call first):
+  /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/node_modules/react-native/ReactAndroid/cmake-utils/ReactNative-application.cmake:123 (include)
+  CMakeLists.txt:31 (include)
+
+
+CMake Error at /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/build/generated/rncli/src/main/jni/Android-rncli.cmake:8 (add_subdirectory):
+  add_subdirectory called with incorrect number of arguments
+Call Stack (most recent call first):
+  /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/node_modules/react-native/ReactAndroid/cmake-utils/ReactNative-application.cmake:123 (include)
+  CMakeLists.txt:31 (include)
+
+
+CMake Error at /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/node_modules/react-native/ReactAndroid/cmake-utils/ReactNative-application.cmake:126 (target_link_libraries):
+  Cannot specify link libraries for target "react_codegen_rnasyncstorage"
+  which is not built by this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:31 (include)
+
+

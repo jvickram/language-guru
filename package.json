@@ -1,1 +1,3 @@
-{\n  "name": "language-guru",\n  "private": true,\n  "workspaces": [\n    "frontend/*",\n    "backend/*"\n  ]\n}
+{
+  "name": "language-guru"
+}

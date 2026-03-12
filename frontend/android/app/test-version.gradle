@@ -1,0 +1,17 @@
+// Test script to check if version can be read
+def propertiesFile = file("../../node_modules/react-native/ReactAndroid/gradle.properties")
+
+println("=== VERSION DIAGNOSIS ===")
+println("Properties file path: ${propertiesFile.absolutePath}")
+println("Properties file exists: ${propertiesFile.exists()}")
+println("Properties file is readable: ${propertiesFile.canRead()}")
+
+if (propertiesFile.exists()) {
+    def props = new Properties()
+    propertiesFile.withInputStream { stream ->
+        props.load(stream)
+    }
+    println("VERSION_NAME from file: '${props['VERSION_NAME']}'")
+    println("All properties: ${props}")
+}
+println("===================")

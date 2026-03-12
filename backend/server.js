@@ -1,23 +1,42 @@
-const express = require('express');
-const app = express();
+require('dotenv').config();
 
-// Middleware
-app.use(express.json());
+const { getConfig, validateConfig } = require('./src/config');
+const { createStoreManager } = require('./src/store');
+const { createApp } = require('./src/app');
+const { now } = require('./src/utils/time');
 
-// Routes
-app.get('/api/health', (req, res) => {
-  res.json({ status: 'Server is running' });
-});
+const config = getConfig();
+validateConfig(config);
 
-// Error handling middleware
-app.use((err, req, res, next) => {
-  console.error(err.stack);
-  res.status(500).json({ error: 'Internal Server Error' });
-});
+const storeManager = createStoreManager(config);
+const app = createApp({ config, storeManager });
 
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
+let server;
+
+const start = async () => {
+  await storeManager.init();
+  server = app.listen(config.port, () => {
+    console.log(`${now()} server_started port=${config.port} env=${config.env} datastore=${storeManager.getMode()}`);
+  });
+};
+
+const shutdown = async () => {
+  if (server) {
+    await new Promise((resolve) => server.close(resolve));
+  }
+  await storeManager.close();
+  process.exit(0);
+};
+
+if (require.main === module) {
+  start().catch((error) => {
+    console.error(`${now()} startup_failed`, error);
+    process.exit(1);
+  });
+}
+
+process.on('SIGINT', shutdown);
+process.on('SIGTERM', shutdown);
 
 module.exports = app;
+module.exports.start = start;

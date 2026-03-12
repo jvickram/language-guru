@@ -1,0 +1,39 @@
+com.languageguru.app-recyclerview-1.1.0-0 /Users/jvickram/.gradle/caches/transforms-3/0fd1425c12b4ad547fe75169beca3740/transformed/recyclerview-1.1.0/res
+com.languageguru.app-core-1.9.0-1 /Users/jvickram/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/res
+com.languageguru.app-emoji2-1.2.0-2 /Users/jvickram/.gradle/caches/transforms-3/15b1e5bc9a0e7ee8da4a47a3ca3cf782/transformed/emoji2-1.2.0/res
+com.languageguru.app-autofill-1.1.0-3 /Users/jvickram/.gradle/caches/transforms-3/209e9c00c790238facf7a05ab3cc9daf/transformed/autofill-1.1.0/res
+com.languageguru.app-viewpager2-1.0.0-4 /Users/jvickram/.gradle/caches/transforms-3/27673b758f73ef8363c4b398f69ca054/transformed/viewpager2-1.0.0/res
+com.languageguru.app-transition-1.2.0-5 /Users/jvickram/.gradle/caches/transforms-3/345ebcb3e4094628456bcdee8e74a5da/transformed/transition-1.2.0/res
+com.languageguru.app-activity-1.6.0-6 /Users/jvickram/.gradle/caches/transforms-3/59263e7c887790458570eb895c81907d/transformed/activity-1.6.0/res
+com.languageguru.app-swiperefreshlayout-1.1.0-7 /Users/jvickram/.gradle/caches/transforms-3/5b356190bdf4bb7065067fc153a69c6d/transformed/swiperefreshlayout-1.1.0/res
+com.languageguru.app-lifecycle-livedata-core-2.5.1-8 /Users/jvickram/.gradle/caches/transforms-3/605c5c983d653fbcbe978ef5aeb9a8b2/transformed/lifecycle-livedata-core-2.5.1/res
+com.languageguru.app-cardview-1.0.0-9 /Users/jvickram/.gradle/caches/transforms-3/6119c53d075509c7c00b74ccdeb41c3b/transformed/cardview-1.0.0/res
+com.languageguru.app-react-android-0.73.11-debug-10 /Users/jvickram/.gradle/caches/transforms-3/6b1fdbcc51bd1d9e1737b1f245310fa1/transformed/react-android-0.73.11-debug/res
+com.languageguru.app-savedstate-1.2.0-11 /Users/jvickram/.gradle/caches/transforms-3/6ff8ab70dba2e5864361a9eb0b309489/transformed/savedstate-1.2.0/res
+com.languageguru.app-annotation-experimental-1.3.0-12 /Users/jvickram/.gradle/caches/transforms-3/833d32d424236eb26cd9ad4e79ea2d15/transformed/annotation-experimental-1.3.0/res
+com.languageguru.app-appcompat-resources-1.6.1-13 /Users/jvickram/.gradle/caches/transforms-3/966f33e770ca23028d8f308cae47b6ce/transformed/appcompat-resources-1.6.1/res
+com.languageguru.app-drawerlayout-1.1.1-14 /Users/jvickram/.gradle/caches/transforms-3/9b7c687cf2ef0cdf849c0c1404623f4f/transformed/drawerlayout-1.1.1/res
+com.languageguru.app-tracing-1.1.0-15 /Users/jvickram/.gradle/caches/transforms-3/9fa77c4d003de09851a41b68a4165087/transformed/tracing-1.1.0/res
+com.languageguru.app-lifecycle-viewmodel-2.5.1-16 /Users/jvickram/.gradle/caches/transforms-3/aa8b400e3fa62f6a4287be6e71a3821f/transformed/lifecycle-viewmodel-2.5.1/res
+com.languageguru.app-appcompat-1.6.1-17 /Users/jvickram/.gradle/caches/transforms-3/b3627ca143232ec2ceb6e319eb18971d/transformed/appcompat-1.6.1/res
+com.languageguru.app-fragment-1.3.6-18 /Users/jvickram/.gradle/caches/transforms-3/b3aae516de8ada04cd390a9558584616/transformed/fragment-1.3.6/res
+com.languageguru.app-lifecycle-runtime-2.5.1-19 /Users/jvickram/.gradle/caches/transforms-3/c2c67d6ef97116786f5e00cacbb4d36d/transformed/lifecycle-runtime-2.5.1/res
+com.languageguru.app-drawee-3.1.3-20 /Users/jvickram/.gradle/caches/transforms-3/ceb1160fe38c2fe2117b154ef9c72e5e/transformed/drawee-3.1.3/res
+com.languageguru.app-core-ktx-1.9.0-21 /Users/jvickram/.gradle/caches/transforms-3/d23d6a45e492f15c201af61f951fa4e2/transformed/core-ktx-1.9.0/res
+com.languageguru.app-material-1.9.0-22 /Users/jvickram/.gradle/caches/transforms-3/d3a8a24834f295d8078f18b8298041f7/transformed/material-1.9.0/res
+com.languageguru.app-constraintlayout-2.0.1-23 /Users/jvickram/.gradle/caches/transforms-3/dd997c22ecb777a9e0898386a3d502a5/transformed/constraintlayout-2.0.1/res
+com.languageguru.app-emoji2-views-helper-1.2.0-24 /Users/jvickram/.gradle/caches/transforms-3/e2ee9e55e87328903b701c27d28c333b/transformed/emoji2-views-helper-1.2.0/res
+com.languageguru.app-startup-runtime-1.1.1-25 /Users/jvickram/.gradle/caches/transforms-3/e4cac9a05c96bced2bed2eaec58491f6/transformed/startup-runtime-1.1.1/res
+com.languageguru.app-lifecycle-viewmodel-savedstate-2.5.1-26 /Users/jvickram/.gradle/caches/transforms-3/e7b752d7fa4922d4763612dfa35e8e33/transformed/lifecycle-viewmodel-savedstate-2.5.1/res
+com.languageguru.app-coordinatorlayout-1.2.0-27 /Users/jvickram/.gradle/caches/transforms-3/f1ad4007c9d50652fdaa15828c92907b/transformed/coordinatorlayout-1.2.0/res
+com.languageguru.app-lifecycle-process-2.4.1-28 /Users/jvickram/.gradle/caches/transforms-3/fccc561a7772f0fa8cef62ebc7d1d814/transformed/lifecycle-process-2.4.1/res
+com.languageguru.app-pngs-29 /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/build/generated/res/pngs/debug
+com.languageguru.app-resValues-30 /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/build/generated/res/resValues/debug
+com.languageguru.app-packageDebugResources-31 /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.languageguru.app-packageDebugResources-32 /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.languageguru.app-merged_res-33 /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/build/intermediates/merged_res/debug
+com.languageguru.app-debug-34 /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/debug/res
+com.languageguru.app-main-35 /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/android/app/src/main/res
+com.languageguru.app-packaged_res-36 /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/packaged_res/debug
+com.languageguru.app-packaged_res-37 /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/node_modules/react-native-safe-area-context/android/build/intermediates/packaged_res/debug
+com.languageguru.app-packaged_res-38 /Users/jvickram/Downloads/Projects/Practice_folder/Mobile App/copilot/language-guru/frontend/node_modules/react-native-screens/android/build/intermediates/packaged_res/debug
